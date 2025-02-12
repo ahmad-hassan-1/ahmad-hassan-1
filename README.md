@@ -1,9 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Ruby on Rails
-- 🌱 I’m currently learning Next js
-- 🚀 I have **X+ repositories** with cool projects!
-- 🏆 My most starred repo has **X+ stars**!
-- 🌱 I contribute to **X+ open-source projects** regularly.
+- 🔭 I’m currently working on Ruby on Rails [![Rails][Rails]][Rails-url]
+- 🌱 I’m currently learning Next [![Next.js][Next.js]][Next.js-url]
 - 🤝 I’m always open to collaborations on **full-stack projects**.
 ###
 
@@ -13,9 +10,21 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmad-hassan-1&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmad-hassan-1&theme=radical)
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ahmad-hassan-1&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-hassan-1&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-hassan-1&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?usernam=ahmad-hassan-1&theme=radical)
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Techs
+
+[![Rails][Rails]][Rails-url]
+[![React][React]][React-url]
+[![Next.js][Next.js]][Next.js-url]
+[![Postgres][Postgres]][Postgres-url]
+[![Redis][Redis]][Redis-url]
+[![Docker][Docker]][Docker-url]
+[![Python][Python]][Python-url]
+[![JavaScript][JavaScript]][JavaScript-url]
+[![TypeScript][TypeScript]][TypeScript-url]
+[![SQL][SQL]][SQL-url]
 
 ### My Handles
 
@@ -34,3 +43,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- MARKDOWN LINKS -->
+
+[Rails]: https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white
+[Rails-url]: https://rubyonrails.org/
+[Postgres-url]: https://www.postgresql.org/
+[Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[Redis-url]: https://redis.io/
+[Redis]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
+[Docker-url]: https://www.docker.com/
+[Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[Python-url]: https://www.python.org/
+[Python]: https://img.shields.io/badge/python-%2338A1F3.svg?style=for-the-badge&logo=python&logoColor=white
+[JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[JavaScript]: https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white
+[TypeScript-url]: https://www.typescriptlang.org/
+[TypeScript]: https://img.shields.io/badge/typescript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=white
+[SQL-url]: https://www.w3schools.com/sql/
+[SQL]: https://img.shields.io/badge/sql-%232F74C0.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[React-url]: https://reactjs.org/
+[Next.js]: https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white
+[Next.js-url]: https://nextjs.org/
