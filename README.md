@@ -1,18 +1,21 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Ruby on Rails [![Rails][Rails]][Rails-url]
-- 🌱 I’m currently learning Next [![Next.js][Next.js]][Next.js-url]
+- 🔭 I’m currently working on Ruby on Rails [![Rails][Rails-f]][Rails-url]
+- 🌱 I’m currently learning Next [![Next.js][Next.js-f]][Next.js-url]
 - 🤝 I’m always open to collaborations on **full-stack projects**.
 ###
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmad-hassan-1&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmad-hassan-1&theme=radical)
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ahmad-hassan-1&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-hassan-1&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?usernam=ahmad-hassan-1&theme=radical)
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-hassan-1&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-hassan-1&layout=compact&theme=dark" alt="Top Languages">
+</p>
+
 ### Techs
 
 [![Rails][Rails]][Rails-url]
@@ -46,7 +49,8 @@ Here are some ideas to get you started:
 
 <!-- MARKDOWN LINKS -->
 
-[Rails]: https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white
+[Rails]: https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white
+[Rails-f]: https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white
 [Rails-url]: https://rubyonrails.org/
 [Postgres-url]: https://www.postgresql.org/
 [Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
@@ -62,6 +66,8 @@ Here are some ideas to get you started:
 [TypeScript]: https://img.shields.io/badge/typescript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=white
 [SQL-url]: https://www.w3schools.com/sql/
 [SQL]: https://img.shields.io/badge/sql-%232F74C0.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[React]: https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://reactjs.org/
-[Next.js]: https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white
+[Next.js]: https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
+[Next.js-f]: https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white
 [Next.js-url]: https://nextjs.org/
